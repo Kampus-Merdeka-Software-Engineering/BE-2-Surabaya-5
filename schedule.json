@@ -1,0 +1,46 @@
+// schedule.json
+[
+    {
+        "id": 1,
+        "name": "Bali 6D5N",
+        "photo": "../../asset/img/Tempat-Tinggal-Terbaik-di-Bali.jpg",
+        "price": 1300000,
+        "destinations": ["Ubud", "Besakih Temple"]
+    },
+
+    {
+        "id": 2,
+        "name": "Gili Ketapang 2D1N",
+        "price": 350000,
+        "destinations": ["Gili Ketapang"]
+    },
+
+    {
+        "id": 3,
+        "name": "Bromo",
+        "price": 300000,
+        "destinations": ["Mount Bromo Crate", "Love Hill"]      
+    },
+    
+    {
+        "id": 4,
+        "name": "Pacitan",
+        "price": 200000,
+        "destinations": ["Klayar Beach", "Beiji Park"]
+    },
+
+    {
+        "id": 5,
+        "name": "Jogja 2D1N",
+        "price": 350000,
+        "destinations": ["Borobudur Temple", "Merpai Park"]
+    },
+
+    {
+        "id": 6,
+        "name": "Batu Malang",
+        "price": 250000,
+        "destinations": ["Jatim Park 1", "Baloga"]
+    }
+  ]
+  

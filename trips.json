@@ -1,0 +1,171 @@
+// trips.json
+[
+    {
+      "id": 1,
+      "name": "Bali 6D5N",
+      "price": 1300000,
+      "destinations": ["Ubud", "Besakih Temple"],
+      "description": "<p>Embark on an extraordinary 6 days 5 nights journey to the mesmerizing island of Bali with Voyagent, where every moment is meticulously crafted for an unparalleled travel experience. Our carefully curated itinerary promises an immersive blend of cultural exploration, scenic beauty, and luxurious relaxation.
+                        
+      <br><br><h3>Day 1 : Arrival in Bali</h3>
+      <p>Arrive at Ngurah Rai International Airport, where the magic of Bali unfolds before you. Our expertly arranged transfer whisks you away to your exquisite accommodation, setting the tone for the enchanting days ahead. </p> 
+  
+      <br><br><h3>Day 2 : Ubud Unveiled</h3> 
+      <p>Dive into the cultural heartbeat of Bali in Ubud. Explore the terraced landscapes of Tegalalang, peruse the vibrant stalls of Ubud Market, and connect with nature at the sacred Monkey Forest. The evening culminates in the mesmerizing beauty of a traditional Balinese dance performance.</p> 
+  
+      <br><br><h3>Day 3 : Besakih Temple &  East Bali Exploration</h3> 
+      <p>Embark on a picturesque drive to Besakih Temple, Bali's spiritual apex nestled against the backdrop of Mount Agung. Traverse the wonders of East Bali, discovering ancient villages, traditional salt-making, and the serenity of Tirta Gangga Water Palace.</p>
+  
+      <br><br><h3>Day 4 : Sun-Kissed Seminyak Retreat</h3> 
+      <p>Indulge in the coastal allure of Seminyak, where pristine beaches meet upscale sophistication. Bask in the sun, take a refreshing dip, and relish a beachfront dinner at one of Seminyak's renowned establishments.</p>
+  
+      <br><br><h3>Day 5 : Tanah Lot Sunset Spectacle</h3> 
+      <p>Experience the iconic Tanah Lot Temple, a marvel perched on the ocean rocks. Wander the temple grounds and witness a breathtaking sunset, a perfect climax to your Balinese sojourn. Delight in a farewell dinner featuring exquisite local cuisine.</p>
+  
+      <br><br><h3>Day 6 : Departure, Cherishing Memories</h3> 
+      <p>As your unforgettable Bali adventure draws to a close, reflect on the captivating moments created. Depart the island with a heart full of cherished memories, cultural insights, and the promise of returning to Bali’s irresistible embrace.</p>
+  
+      <br><br><p>Voyagent invites you to surrender to the allure of Bali—where our carefully designed itinerary ensures an exquisite blend of cultural discovery, natural splendor, and pure relaxation. Let Voyagent be your guide to an unforgettable Balinese odyssey!</p>",
+    },
+
+    {
+        "id": 2,
+        "name": "Gili Ketapang 2D1N",
+        "price": 350000,
+        "destinations": ["Gili Ketapang"],
+        "description": "<p>Embark on an extraordinary 2 days 1 night journey to the mesmerizing beach of Gili Ketapang with Voyagent, where every moment is meticulously crafted for an unparalleled travel experience. Our carefully curated itinerary promises an immersive blend of cultural exploration, scenic beauty, and luxurious relaxation.
+                          
+        <br><br><h3>Day 1 : Arrival in Gili Ketapang</h3>
+        <p>Arrive at Ngurah Rai International Airport, where the magic of Bali unfolds before you. Our expertly arranged transfer whisks you away to your exquisite accommodation, setting the tone for the enchanting days ahead. </p> 
+    
+        <br><br><h3>Day 2 : Ubud Unveiled</h3> 
+        <p>Dive into the cultural heartbeat of Bali in Ubud. Explore the terraced landscapes of Tegalalang, peruse the vibrant stalls of Ubud Market, and connect with nature at the sacred Monkey Forest. The evening culminates in the mesmerizing beauty of a traditional Balinese dance performance.</p> 
+    
+        <br><br><h3>Day 3 : Besakih Temple &  East Bali Exploration</h3> 
+        <p>Embark on a picturesque drive to Besakih Temple, Bali's spiritual apex nestled against the backdrop of Mount Agung. Traverse the wonders of East Bali, discovering ancient villages, traditional salt-making, and the serenity of Tirta Gangga Water Palace.</p>
+    
+        <br><br><h3>Day 4 : Sun-Kissed Seminyak Retreat</h3> 
+        <p>Indulge in the coastal allure of Seminyak, where pristine beaches meet upscale sophistication. Bask in the sun, take a refreshing dip, and relish a beachfront dinner at one of Seminyak's renowned establishments.</p>
+    
+        <br><br><h3>Day 5 : Tanah Lot Sunset Spectacle</h3> 
+        <p>Experience the iconic Tanah Lot Temple, a marvel perched on the ocean rocks. Wander the temple grounds and witness a breathtaking sunset, a perfect climax to your Balinese sojourn. Delight in a farewell dinner featuring exquisite local cuisine.</p>
+    
+        <br><br><h3>Day 6 : Departure, Cherishing Memories</h3> 
+        <p>As your unforgettable Bali adventure draws to a close, reflect on the captivating moments created. Depart the island with a heart full of cherished memories, cultural insights, and the promise of returning to Bali’s irresistible embrace.</p>
+    
+        <br><br><p>Voyagent invites you to surrender to the allure of Bali—where our carefully designed itinerary ensures an exquisite blend of cultural discovery, natural splendor, and pure relaxation. Let Voyagent be your guide to an unforgettable Balinese odyssey!</p>",
+      },
+
+      {
+        "id": 3,
+        "name": "Bromo",
+        "price": 300000,
+        "destinations": ["Mount Bromo Crate", "Love Hill"],
+        "description": "<p>Embark on an extraordinary journey to the mesmerizing mountain of Bromo with Voyagent, where every moment is meticulously crafted for an unparalleled travel experience. Our carefully curated itinerary promises an immersive blend of cultural exploration, scenic beauty, and luxurious relaxation.
+                          
+        <br><br><h3>Day 1 : Arrival in Gili Ketapang</h3>
+        <p>Arrive at Ngurah Rai International Airport, where the magic of Bali unfolds before you. Our expertly arranged transfer whisks you away to your exquisite accommodation, setting the tone for the enchanting days ahead. </p> 
+    
+        <br><br><h3>Day 2 : Ubud Unveiled</h3> 
+        <p>Dive into the cultural heartbeat of Bali in Ubud. Explore the terraced landscapes of Tegalalang, peruse the vibrant stalls of Ubud Market, and connect with nature at the sacred Monkey Forest. The evening culminates in the mesmerizing beauty of a traditional Balinese dance performance.</p> 
+    
+        <br><br><h3>Day 3 : Besakih Temple &  East Bali Exploration</h3> 
+        <p>Embark on a picturesque drive to Besakih Temple, Bali's spiritual apex nestled against the backdrop of Mount Agung. Traverse the wonders of East Bali, discovering ancient villages, traditional salt-making, and the serenity of Tirta Gangga Water Palace.</p>
+    
+        <br><br><h3>Day 4 : Sun-Kissed Seminyak Retreat</h3> 
+        <p>Indulge in the coastal allure of Seminyak, where pristine beaches meet upscale sophistication. Bask in the sun, take a refreshing dip, and relish a beachfront dinner at one of Seminyak's renowned establishments.</p>
+    
+        <br><br><h3>Day 5 : Tanah Lot Sunset Spectacle</h3> 
+        <p>Experience the iconic Tanah Lot Temple, a marvel perched on the ocean rocks. Wander the temple grounds and witness a breathtaking sunset, a perfect climax to your Balinese sojourn. Delight in a farewell dinner featuring exquisite local cuisine.</p>
+    
+        <br><br><h3>Day 6 : Departure, Cherishing Memories</h3> 
+        <p>As your unforgettable Bali adventure draws to a close, reflect on the captivating moments created. Depart the island with a heart full of cherished memories, cultural insights, and the promise of returning to Bali’s irresistible embrace.</p>
+    
+        <br><br><p>Voyagent invites you to surrender to the allure of Bali—where our carefully designed itinerary ensures an exquisite blend of cultural discovery, natural splendor, and pure relaxation. Let Voyagent be your guide to an unforgettable Balinese odyssey!</p>",
+      },
+    
+      {
+        "id": 4,
+        "name": "Pacitan",
+        "price": 200000,
+        "destinations": ["Klayar Beach", "Beiji Park"],
+        "description": "<p>Embark on an extraordinary journey to the mesmerizing beach in Pacitan with Voyagent, where every moment is meticulously crafted for an unparalleled travel experience. Our carefully curated itinerary promises an immersive blend of cultural exploration, scenic beauty, and luxurious relaxation.
+                          
+        <br><br><h3>Day 1 : Arrival in Gili Ketapang</h3>
+        <p>Arrive at Ngurah Rai International Airport, where the magic of Bali unfolds before you. Our expertly arranged transfer whisks you away to your exquisite accommodation, setting the tone for the enchanting days ahead. </p> 
+    
+        <br><br><h3>Day 2 : Ubud Unveiled</h3> 
+        <p>Dive into the cultural heartbeat of Bali in Ubud. Explore the terraced landscapes of Tegalalang, peruse the vibrant stalls of Ubud Market, and connect with nature at the sacred Monkey Forest. The evening culminates in the mesmerizing beauty of a traditional Balinese dance performance.</p> 
+    
+        <br><br><h3>Day 3 : Besakih Temple &  East Bali Exploration</h3> 
+        <p>Embark on a picturesque drive to Besakih Temple, Bali's spiritual apex nestled against the backdrop of Mount Agung. Traverse the wonders of East Bali, discovering ancient villages, traditional salt-making, and the serenity of Tirta Gangga Water Palace.</p>
+    
+        <br><br><h3>Day 4 : Sun-Kissed Seminyak Retreat</h3> 
+        <p>Indulge in the coastal allure of Seminyak, where pristine beaches meet upscale sophistication. Bask in the sun, take a refreshing dip, and relish a beachfront dinner at one of Seminyak's renowned establishments.</p>
+    
+        <br><br><h3>Day 5 : Tanah Lot Sunset Spectacle</h3> 
+        <p>Experience the iconic Tanah Lot Temple, a marvel perched on the ocean rocks. Wander the temple grounds and witness a breathtaking sunset, a perfect climax to your Balinese sojourn. Delight in a farewell dinner featuring exquisite local cuisine.</p>
+    
+        <br><br><h3>Day 6 : Departure, Cherishing Memories</h3> 
+        <p>As your unforgettable Bali adventure draws to a close, reflect on the captivating moments created. Depart the island with a heart full of cherished memories, cultural insights, and the promise of returning to Bali’s irresistible embrace.</p>
+    
+        <br><br><p>Voyagent invites you to surrender to the allure of Bali—where our carefully designed itinerary ensures an exquisite blend of cultural discovery, natural splendor, and pure relaxation. Let Voyagent be your guide to an unforgettable Balinese odyssey!</p>",
+      },
+
+      {
+        "id": 5,
+        "name": "Jogja 2D1N",
+        "price": 350000,
+        "destinations": ["Borobudur Temple", "Merpai Park"],
+        "description": "<p>Embark on an extraordinary journey to the mesmerizing temple in Jogja with Voyagent, where every moment is meticulously crafted for an unparalleled travel experience. Our carefully curated itinerary promises an immersive blend of cultural exploration, scenic beauty, and luxurious relaxation.
+                          
+        <br><br><h3>Day 1 : Arrival in Gili Ketapang</h3>
+        <p>Arrive at Ngurah Rai International Airport, where the magic of Bali unfolds before you. Our expertly arranged transfer whisks you away to your exquisite accommodation, setting the tone for the enchanting days ahead. </p> 
+    
+        <br><br><h3>Day 2 : Ubud Unveiled</h3> 
+        <p>Dive into the cultural heartbeat of Bali in Ubud. Explore the terraced landscapes of Tegalalang, peruse the vibrant stalls of Ubud Market, and connect with nature at the sacred Monkey Forest. The evening culminates in the mesmerizing beauty of a traditional Balinese dance performance.</p> 
+    
+        <br><br><h3>Day 3 : Besakih Temple &  East Bali Exploration</h3> 
+        <p>Embark on a picturesque drive to Besakih Temple, Bali's spiritual apex nestled against the backdrop of Mount Agung. Traverse the wonders of East Bali, discovering ancient villages, traditional salt-making, and the serenity of Tirta Gangga Water Palace.</p>
+    
+        <br><br><h3>Day 4 : Sun-Kissed Seminyak Retreat</h3> 
+        <p>Indulge in the coastal allure of Seminyak, where pristine beaches meet upscale sophistication. Bask in the sun, take a refreshing dip, and relish a beachfront dinner at one of Seminyak's renowned establishments.</p>
+    
+        <br><br><h3>Day 5 : Tanah Lot Sunset Spectacle</h3> 
+        <p>Experience the iconic Tanah Lot Temple, a marvel perched on the ocean rocks. Wander the temple grounds and witness a breathtaking sunset, a perfect climax to your Balinese sojourn. Delight in a farewell dinner featuring exquisite local cuisine.</p>
+    
+        <br><br><h3>Day 6 : Departure, Cherishing Memories</h3> 
+        <p>As your unforgettable Bali adventure draws to a close, reflect on the captivating moments created. Depart the island with a heart full of cherished memories, cultural insights, and the promise of returning to Bali’s irresistible embrace.</p>
+    
+        <br><br><p>Voyagent invites you to surrender to the allure of Bali—where our carefully designed itinerary ensures an exquisite blend of cultural discovery, natural splendor, and pure relaxation. Let Voyagent be your guide to an unforgettable Balinese odyssey!</p>",
+      },
+
+      {
+        "id": 6,
+        "name": "Batu Malang",
+        "price": 250000,
+        "destinations": ["Jatim Park 1", "Baloga"],
+        "description": "<p>Embark on an extraordinary journey to the mesmerizing park in Batu with Voyagent, where every moment is meticulously crafted for an unparalleled travel experience. Our carefully curated itinerary promises an immersive blend of cultural exploration, scenic beauty, and luxurious relaxation.
+                          
+        <br><br><h3>Day 1 : Arrival in Gili Ketapang</h3>
+        <p>Arrive at Ngurah Rai International Airport, where the magic of Bali unfolds before you. Our expertly arranged transfer whisks you away to your exquisite accommodation, setting the tone for the enchanting days ahead. </p> 
+    
+        <br><br><h3>Day 2 : Ubud Unveiled</h3> 
+        <p>Dive into the cultural heartbeat of Bali in Ubud. Explore the terraced landscapes of Tegalalang, peruse the vibrant stalls of Ubud Market, and connect with nature at the sacred Monkey Forest. The evening culminates in the mesmerizing beauty of a traditional Balinese dance performance.</p> 
+    
+        <br><br><h3>Day 3 : Besakih Temple &  East Bali Exploration</h3> 
+        <p>Embark on a picturesque drive to Besakih Temple, Bali's spiritual apex nestled against the backdrop of Mount Agung. Traverse the wonders of East Bali, discovering ancient villages, traditional salt-making, and the serenity of Tirta Gangga Water Palace.</p>
+    
+        <br><br><h3>Day 4 : Sun-Kissed Seminyak Retreat</h3> 
+        <p>Indulge in the coastal allure of Seminyak, where pristine beaches meet upscale sophistication. Bask in the sun, take a refreshing dip, and relish a beachfront dinner at one of Seminyak's renowned establishments.</p>
+    
+        <br><br><h3>Day 5 : Tanah Lot Sunset Spectacle</h3> 
+        <p>Experience the iconic Tanah Lot Temple, a marvel perched on the ocean rocks. Wander the temple grounds and witness a breathtaking sunset, a perfect climax to your Balinese sojourn. Delight in a farewell dinner featuring exquisite local cuisine.</p>
+    
+        <br><br><h3>Day 6 : Departure, Cherishing Memories</h3> 
+        <p>As your unforgettable Bali adventure draws to a close, reflect on the captivating moments created. Depart the island with a heart full of cherished memories, cultural insights, and the promise of returning to Bali’s irresistible embrace.</p>
+    
+        <br><br><p>Voyagent invites you to surrender to the allure of Bali—where our carefully designed itinerary ensures an exquisite blend of cultural discovery, natural splendor, and pure relaxation. Let Voyagent be your guide to an unforgettable Balinese odyssey!</p>",
+      },
+  ]
+  

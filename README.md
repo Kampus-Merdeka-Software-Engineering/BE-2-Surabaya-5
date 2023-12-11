@@ -8,6 +8,7 @@ Welcome to Voyagent Back-end. This project serves as the backend for Voyagent We
 4. Visual Studio Code
 
 # Project Root
+```
 - backend
   - package.json
   - package_lock.json
@@ -26,10 +27,15 @@ Welcome to Voyagent Back-end. This project serves as the backend for Voyagent We
   - file.css
 - js
   - file.js
+```
 
 # Usage
 To install npm before running back-end server :
-'''npm install'''
+```
+npm install
 
+```
 To run the back-end server :
-"npm start"
+```
+npm start
+```
